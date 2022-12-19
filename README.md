@@ -1,6 +1,6 @@
 # crypto
 
-A new Flutter project.
+A simple cryptocurrencies wallet that display the current value for each currency
 
 ## Getting Started
 
@@ -15,8 +15,3 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # flutter-crypto
-# flutter-crypto-app
-# flutter-crypto-app
-# flutter-crypto-app
-# crypto
-# crypto
